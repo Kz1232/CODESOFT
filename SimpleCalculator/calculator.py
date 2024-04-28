@@ -1,3 +1,4 @@
+import time
 
 def add(a,b):
     return a+b
@@ -25,24 +26,28 @@ if __name__ == '__main__' :
             num2 =int(input('Enter the second number :'))
             result=add(num1 , num2)
             print(result)
+            time.sleep(4)
         elif choice == 2:
             print('Decimal input can"t be processed !!')
             num1 =int(input('Enter the first number :'))
             num2 =int(input('Enter the second number :'))
             result=sub(num1 , num2)
             print(result)
+            time.sleep(4)
         elif choice == 3:
             print('Decimal input can"t be processed !!')
             num1 =int(input('Enter the first number :'))
             num2 =int(input('Enter the second number :'))
             result=mult(num1 , num2)
             print(result)
+            time.sleep(4)
         elif choice == 4:
             print('Decimal input can"t be processed !!')
             num1 =int(input('Enter the first number :'))
             num2 =int(input('Enter the second number :'))
             result=divi(num1 , num2)
             print(result)
+            time.sleep(4)
         elif choice == 5:
             print('We are exiting ......')
             break
