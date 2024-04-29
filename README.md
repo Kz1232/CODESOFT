@@ -10,12 +10,13 @@
 ## Todolist  app 
   It is simple python script that helps to perform the function of todolist app.
   It contains the feature of creating and updating the task as per the need of the user.
+  
   **The user can perform three function:**
-    1.Creating a task 
+    - Creating a task 
     ![Creating task console picture](/Todolist/images/createtask.png)
-    2.Deleting the task 
+    - Deleting the task 
     ![Image of task deleting in the console](/Todolist/images/deleteTask.png)
-    3.Changing the status of the task 
+    - Changing the status of the task 
        ***Before***
        ![Task incomplete picture](/Todolist/images/Changingstatus.png)
        ***After***
