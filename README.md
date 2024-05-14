@@ -34,7 +34,18 @@
   All of the above mentioned function is done in console .
   
   
-  
+## ROCK, PAPER AND SCISSORS  GAME
+  It is a simple game of rock , paper and scissors on the console of the window created sloly using the 
+  python programming langauge.User plays with the computer here 
+### Features :
+  1. User can play with computer
+
+  2. User can **win** or **lose** or can have **tie**
+
+  3. It has console based interface for interaction.
+
+
+
   
   
   
